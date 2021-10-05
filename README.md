@@ -4,6 +4,5 @@ Short Link !
 
 # Development
 
-- Flask 
-
+- Python/Flask
 
